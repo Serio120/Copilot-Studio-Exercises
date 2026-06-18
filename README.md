@@ -3,7 +3,7 @@ A continuación se enumeran los enlaces a los ejercicios de Copilot Studio en Mi
 
 ## Links:
 
-[ILT Setup](https://microsoftlearning.github.io/mslearn-copilotstudio/Instructions/Labs/00-ILT-setup.html)  [+](#)
+[ILT Setup](https://microsoftlearning.github.io/mslearn-copilotstudio/Instructions/Labs/00-ILT-setup.html) `.......` [pulsar]()
 
 [Create agents with Copilot Studio](https://microsoftlearning.github.io/mslearn-copilotstudio/Instructions/Labs/01-create-agents.html)
 
