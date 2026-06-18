@@ -9,6 +9,6 @@ A continuación se enumeran los enlaces a los ejercicios de Copilot Studio en Mi
 
 [Manage topics in Copilot Studio agents](https://microsoftlearning.github.io/mslearn-copilotstudio/Instructions/Labs/02-manage-topics.html)
 
-[Manage knowledge in Copilot Studio agents](#)
+[Manage knowledge in Copilot Studio agents](https://microsoftlearning.github.io/mslearn-copilotstudio/Instructions/Labs/03-knowledge.html)
 
 [Use workflows as tools](#)
