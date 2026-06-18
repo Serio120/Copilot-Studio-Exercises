@@ -10,6 +10,6 @@ ADMINISTRAR > ENTORNOS > + NUEVO
 ```
 # Seguimos las instrucciones hasta llegar a entrar en: https://copilotstudio.microsoft.com/
 # Tenemos que elegir el entorno que hemos creado para continuar con las instrucciones
-# Al final crearemos una SOLUCIÖN y un ENTORNO
+# Al final crearemos una SOLUCIÓN y un ENTORNO
 ```
 
